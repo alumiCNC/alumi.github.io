@@ -95,6 +95,17 @@ a {
 	color: #2AB573;
 	padding: ;
 }
+.smlogosoon {
+	display: block;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	width: 150px;
+	border-style: double;
+	border-radius: 10px;
+	color: #2AB573;
+	padding: ;
+	opacity: 0.8;
+}
 .textbox {
 	padding: 10px;
 	display: block;
