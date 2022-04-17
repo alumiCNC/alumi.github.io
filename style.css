@@ -71,7 +71,7 @@ a {
 }
 .midbox {
 	max-width: 950px;
-	min-width: 300px;
+	min-width: 720px;
 	margin-left: 10px;
 	margin-right: 10px;
 	display: grid;
@@ -113,7 +113,8 @@ a {
 	border-style: double;
 	border-radius: 10px;
 	max-width: 770px;
-	min-width: 150px;
+	min-width: 700px;
+	
 	font-family: Helvetica;
 	font-size: 1em;
 	color: #2AB573;
@@ -204,8 +205,14 @@ h3 {
 }
 .qr {
 	display: block;
-	width: 500px;
+	max-width: 300px;
 	margin: auto;
+}
+.nqr {
+	display: block;
+	margin: auto;
+	max-width: 600px;
+	min-width: 500px;
 }
 .dxfembed {
 	display: block;
