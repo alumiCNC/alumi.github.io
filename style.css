@@ -206,3 +206,17 @@ h3 {
 	display: block;
 	margin: auto;
 }
+.imagecontainer {
+	display: block;
+	margin: auto;
+	border-style: ;
+	text-align: center;
+}
+.viewimage {
+	display: inline-block;
+	margin: auto;
+	width: 300px;
+	border-style: double;
+	border-radius: 8px;
+	color: #2AB573;
+}
