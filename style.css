@@ -202,3 +202,7 @@ h3 {
 .qr {
 	width: 300px;
 }
+.dxfembed {
+	display: block;
+	margin: auto;
+}
