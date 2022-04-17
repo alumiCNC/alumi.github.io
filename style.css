@@ -209,12 +209,15 @@ h3 {
 .imagecontainer {
 	display: block;
 	margin: auto;
+		
 	border-style: ;
 	text-align: center;
+	height: 220px;
 }
 .viewimage {
 	display: inline-block;
-	margin: auto;
+	margin: 15px;
+	
 	width: 300px;
 	border-style: double;
 	border-radius: 8px;
